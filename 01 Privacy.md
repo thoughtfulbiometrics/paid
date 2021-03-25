@@ -1,3 +1,5 @@
+# Privacy risks
+
 (1a) Does the biometric use case involve 1-to-1 or 1-to-many matching?
 
 (1b) Is collateral biometric data collected?
